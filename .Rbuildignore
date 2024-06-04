@@ -1,0 +1,15 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^LICENSE\.md$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^cran-comments\.md$
+^CODE_OF_CONDUCT\.md$
+^CRAN-RELEASE$
+^doc$
+^Meta$
+^CRAN-SUBMISSION$
+^vignettes/articles$
